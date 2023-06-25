@@ -22,4 +22,5 @@
 14. Manipulando colunas com o Pandas;
 15. Como excluir colunas no Pandas;
 16. Como criar histogramas;
-17. Criando boxplot usando Python.
+17. Criando boxplot usando Python;
+18. Criando e visualizando gráficos em Python com o Matplotlib.
