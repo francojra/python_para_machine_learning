@@ -13,4 +13,13 @@
 5. Manipulando strings;
 6. Função lambda;
 7. Função map;
-8. List comprehension.
+8. List comprehension;
+9. Como abrir arquivos usando o Pandas;
+10. Introdução ao Pandas;
+11. Comandos úteis do Pandas;
+12. Filtrando linhas e colunas no Pandas;
+13. Manipulando linhas com o Pandas;
+14. Manipulando colunas com o Pandas;
+15. Como excluir colunas no Pandas;
+16. Como criar histogramas;
+17. Criando boxplot usando Python.
