@@ -23,4 +23,6 @@
 15. Como excluir colunas no Pandas;
 16. Como criar histogramas;
 17. Criando boxplot usando Python;
-18. Criando e visualizando gráficos em Python com o Matplotlib.
+18. Criando e visualizando gráficos em Python com o Matplotlib;
+19. Como trabalhar com dados faltantes (missing NaN) em um dataset;
+20. Seu primeiro código de Machine Learning com Python.
