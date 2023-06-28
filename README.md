@@ -25,4 +25,5 @@
 17. Criando boxplot usando Python;
 18. Criando e visualizando gráficos em Python com o Matplotlib;
 19. Como trabalhar com dados faltantes (missing NaN) em um dataset;
-20. Seu primeiro código de Machine Learning com Python.
+20. Seu primeiro código de Machine Learning com Python;
+21. Classes, Objetos, Métodos, Herança, Construtor.
