@@ -26,4 +26,5 @@
 18. Criando e visualizando gráficos em Python com o Matplotlib;
 19. Como trabalhar com dados faltantes (missing NaN) em um dataset;
 20. Seu primeiro código de Machine Learning com Python;
-21. Classes, Objetos, Métodos, Herança, Construtor.
+21. Classes, Objetos, Métodos, Herança, Construtor;
+22. Prevendo dados diariamente com Machine Learning.
