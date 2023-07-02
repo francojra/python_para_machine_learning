@@ -14,17 +14,18 @@
 6. Função lambda;
 7. Função map;
 8. List comprehension;
-9. Como abrir arquivos usando o Pandas;
-10. Introdução ao Pandas;
-11. Comandos úteis do Pandas;
-12. Filtrando linhas e colunas no Pandas;
-13. Manipulando linhas com o Pandas;
-14. Manipulando colunas com o Pandas;
-15. Como excluir colunas no Pandas;
-16. Como criar histogramas;
-17. Criando boxplot usando Python;
-18. Criando e visualizando gráficos em Python com o Matplotlib;
-19. Como trabalhar com dados faltantes (missing NaN) em um dataset;
-20. Seu primeiro código de Machine Learning com Python;
-21. Classes, Objetos, Métodos, Herança, Construtor;
-22. Prevendo dados diariamente com Machine Learning.
+9. O pacote Numpy;
+10. Como abrir arquivos usando o Pandas;
+11. Introdução ao Pandas;
+12. Comandos úteis do Pandas;
+13. Filtrando linhas e colunas no Pandas;
+14. Manipulando linhas com o Pandas;
+15. Manipulando colunas com o Pandas;
+16. Como excluir colunas no Pandas;
+17. Como criar histogramas;
+18. Criando boxplot usando Python;
+19. Criando e visualizando gráficos em Python com o Matplotlib;
+20. Como trabalhar com dados faltantes (missing NaN) em um dataset;
+21. Seu primeiro código de Machine Learning com Python;
+22. Classes, Objetos, Métodos, Herança, Construtor;
+23. Prevendo dados diariamente com Machine Learning.
